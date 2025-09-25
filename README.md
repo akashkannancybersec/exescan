@@ -56,3 +56,6 @@ Python | Hashlib | OS | Shutil | Sys | Tabulate | Colorama | zipfile | rarfile |
 ```bash
 git clone https://github.com/<your-username>/exescan.git
 cd exescan
+pip install -r requirements.txt
+python exescan.py
+
